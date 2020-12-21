@@ -1,0 +1,117 @@
+All objects in class:
+lab_12.Printer Method CostOnSale
+lab_12.Printer Method Info
+lab_12.Printer Method ToString
+lab_12.Printer Method IAmPrinting
+lab_12.Technics Method Equals
+lab_12.Technics Method GetHashCode
+lab_12.Technics Method ToString
+lab_12.Technics Method IsAs
+System.Object Method GetType
+lab_12.Printer Constructor .ctor
+lab_12.Technics Field brand
+lab_12.Technics Field model
+lab_12.Technics Field amount
+lab_12.Product Field id
+lab_12.Product Field cost
+
+All objects in class:
+lab_12.Scaner Method CostOnSale
+lab_12.Scaner Method ToString
+lab_12.Technics Method Info
+lab_12.Technics Method Equals
+lab_12.Technics Method GetHashCode
+lab_12.Technics Method ToString
+lab_12.Technics Method IsAs
+System.Object Method GetType
+lab_12.Scaner Constructor .ctor
+lab_12.Technics Field brand
+lab_12.Technics Field model
+lab_12.Technics Field amount
+lab_12.Product Field id
+lab_12.Product Field cost
+
+All objects in class:
+lab_12.Game Method add_Attack
+lab_12.Game Method remove_Attack
+lab_12.Game Method add_Heal
+lab_12.Game Method remove_Heal
+lab_12.Game Method Healing
+lab_12.Game Method ToAttack
+lab_12.Game Method Display
+lab_12.Game Method DisplayMessage
+System.Object Method GetType
+System.Object Method ToString
+System.Object Method Equals
+System.Object Method GetHashCode
+lab_12.Game Constructor .ctor
+lab_12.Game Event Attack
+lab_12.Game Event Heal
+lab_12.Game Field name
+lab_12.Game Field mana
+lab_12.Game NestedType Action
+
+All methods in class:
+Name:CostOnSale  Return Type:System.Void
+Name:Info  Return Type:System.Void
+Name:ToString  Return Type:System.String
+Name:IAmPrinting  Return Type:System.Void
+Name:Equals  Return Type:System.Boolean
+Name:GetHashCode  Return Type:System.Int32
+Name:ToString  Return Type:System.String
+Name:IsAs  Return Type:System.Void
+Name:GetType  Return Type:System.Type
+
+All methods in class:
+Name:CostOnSale  Return Type:System.Void
+Name:ToString  Return Type:System.String
+Name:Info  Return Type:System.Void
+Name:Equals  Return Type:System.Boolean
+Name:GetHashCode  Return Type:System.Int32
+Name:ToString  Return Type:System.String
+Name:IsAs  Return Type:System.Void
+Name:GetType  Return Type:System.Type
+
+All methods in class:
+Name:add_Attack  Return Type:System.Void
+Name:remove_Attack  Return Type:System.Void
+Name:add_Heal  Return Type:System.Void
+Name:remove_Heal  Return Type:System.Void
+Name:Healing  Return Type:System.Void
+Name:ToAttack  Return Type:System.Void
+Name:Display  Return Type:System.Void
+Name:DisplayMessage  Return Type:System.Void
+Name:GetType  Return Type:System.Type
+Name:ToString  Return Type:System.String
+Name:Equals  Return Type:System.Boolean
+Name:GetHashCode  Return Type:System.Int32
+
+All fields in class:
+Name:brand  Type:System.String
+Name:model  Type:System.String
+Name:amount  Type:System.Int32
+Name:id  Type:System.Int32
+Name:cost  Type:System.Int32
+All properties in class:
+
+All fields in class:
+Name:brand  Type:System.String
+Name:model  Type:System.String
+Name:amount  Type:System.Int32
+Name:id  Type:System.Int32
+Name:cost  Type:System.Int32
+All properties in class:
+
+All fields in class:
+Name:name  Type:System.String
+Name:mana  Type:System.Int32
+All properties in class:
+
+All interfaces in class:
+Name:lab_12.Isale  Base Type:
+
+All interfaces in class:
+Name:lab_12.Isale  Base Type:
+
+All interfaces in class:
+
